@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="272FEFF3-6C0E-46E2-B3C0-ECC09702052F" version="0">
+<presentation availableOffline="1" guid="19367D38-4364-4F66-9EFB-C0CE717B9083" version="0">
 	<info>
-		<title>2020-09-19 Malola Education Online Exam-38 Level I</title>
+		<title>2020-09-20 Malola Education Online Exam-39 Level I</title>
 		<description/>
 	</info>
-	<files index="id19" thumbnail="id15" totalSize="3729400">
+	<files index="id25" thumbnail="id21" totalSize="3830267">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
@@ -17,16 +17,22 @@
 		<file id="id9">data/fonts/fnt6.woff</file>
 		<file id="id10">data/html5-unsupported.html</file>
 		<file id="id11">data/html5.png</file>
-		<file id="id12">data/images/img-53ce7d8d0d450a7c30ab39824209b636b15bb22b.PNG</file>
-		<file id="id13">data/ismplayer/app_store2x.png</file>
-		<file id="id14">data/ismplayer/play.svg</file>
-		<file id="id15">data/ismplayer/preview.png</file>
-		<file id="id16">data/ismplayer/style.css</file>
-		<file id="id17">data/ismplayer/style_mini.css</file>
-		<file id="id18">data/player.js</file>
-		<file id="id19">index.html</file>
-		<file id="id20">ismplayer.html</file>
-		<file id="id21">preview.png</file>
+		<file id="id12">data/images/img-192a6b60987165859040b22b44de55ef78510acb.PNG</file>
+		<file id="id13">data/images/img-8a0d5a651e0a920e3d8334020e119830971ac342.PNG</file>
+		<file id="id14">data/images/img-99c9f4a766a5eaadd9a1de81ae1fa6b4bca4dcca.PNG</file>
+		<file id="id15">data/images/img-c26c2602f4ea06fef1ad57eefe11b19c362513ec.PNG</file>
+		<file id="id16">data/images/img-d953218e9ea8698e28dc7353a1ad1382331e1aa8.PNG</file>
+		<file id="id17">data/images/img-f96181f96e0eeb3824d89836db5015c693487777.PNG</file>
+		<file id="id18">data/images/img-fb54d36b25d3afc8109a9e488368eeb0d4710085.jpg</file>
+		<file id="id19">data/ismplayer/app_store2x.png</file>
+		<file id="id20">data/ismplayer/play.svg</file>
+		<file id="id21">data/ismplayer/preview.png</file>
+		<file id="id22">data/ismplayer/style.css</file>
+		<file id="id23">data/ismplayer/style_mini.css</file>
+		<file id="id24">data/player.js</file>
+		<file id="id25">index.html</file>
+		<file id="id26">ismplayer.html</file>
+		<file id="id27">preview.png</file>
 	</files>
 </presentation>
 
